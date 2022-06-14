@@ -1,0 +1,4 @@
+- 👋 Hi, I’m phporter
+- 👀 I’m interested in simulation and amateur radio software development and use.
+- 🌱 I’m currently learning Python and am a Delphi, C++, Basic, Java and assembly language user.
+- 📫 I can be reached at phporter@charter.net.
